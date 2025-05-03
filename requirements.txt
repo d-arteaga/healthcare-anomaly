@@ -1,7 +1,7 @@
 numpy
 pandas
-pyyaml
 scipy
 scikit-learn
 matplotlib
 seaborn
+shap
