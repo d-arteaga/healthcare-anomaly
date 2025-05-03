@@ -57,9 +57,7 @@ The project requires the following Python libraries:
 - `seaborn`
 - `shap`
 
-Install the dependencies using the following command:
-    ```bash
-    pip install -r requirements.txt
+Install the dependencies using the following command: `pip install -r requirements.txt`
 
 ## How to Run
 
