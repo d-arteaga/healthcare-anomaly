@@ -58,9 +58,8 @@ The project requires the following Python libraries:
 - `shap`
 
 Install the dependencies using the following command:
-
-```bash
-pip install -r [requirements.txt](http://_vscodecontentref_/3)
+    ```bash
+    pip install -r requirements.txt
 
 ## How to Run
 
@@ -73,7 +72,7 @@ pip install -r [requirements.txt](http://_vscodecontentref_/3)
    ```bash
    jupyter notebook model/anomaly_model.ipynb
 
-   ## Results
+## Results
 
 The results of the anomaly detection process, including visualizations and feature importance analysis, are saved in the `visualizations/` directory. These insights can be used to understand the behavior of wearable devices and identify potential issues.
 
